@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
+### I'm Umanga
 
 You can use the [editor on GitHub](https://github.com/chari1211/chari1211.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
